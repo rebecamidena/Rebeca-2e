@@ -1,0 +1,12 @@
+body{
+  background: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+  background-color: black;
+  color: white;
+  bottom: 0;
+  width:100%;
+
+  
+}
